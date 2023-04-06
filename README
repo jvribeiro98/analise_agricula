@@ -1,0 +1,4 @@
+Essa é uma aplicação desenvolvida em python para analise e interpretação de imagens de satelite, para ajudar na agricultura, usando uma API do Google Earth para captação de imagem, e usando a liguagem python para interpretação das imagens
+Ele analisa a coloração das plantas, assim podendo determinar onde tem deficiencia na plantação e podendo indicar a reparação para o agricutor.
+(O PROJETO AINDA ESTÁ EM DESENVOLVIMENTO)
+(QUERO TAMBEM INTEGRAR UMA IA PARA MELHOR INTERPRETAÇÃO E TAMBÉM INTEGRAÇÃO COM INFORMAÇÕES EXTERNAS, COMO CLIMA)
